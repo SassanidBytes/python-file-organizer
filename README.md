@@ -38,13 +38,13 @@ file-organizer /path/to/folder --verbose
 ## Project Structure
 
 
-src/file_organizer/
+\\nsrc/file_organizer/
 ├── config.py      # Extension → category mapping
 ├── organizer.py   # Core logic
 ├── cli.py         # Command-line interface
 tests/
 └── test_organizer.py
-
+\\n
 
 ## License
 
