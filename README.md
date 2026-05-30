@@ -37,7 +37,7 @@ file-organizer /path/to/folder --verbose
 
 ## Project Structure
 
-
+```
 \\nsrc/file_organizer/
 ├── config.py      # Extension → category mapping
 ├── organizer.py   # Core logic
@@ -45,7 +45,7 @@ file-organizer /path/to/folder --verbose
 tests/
 └── test_organizer.py
 \\n
-
+```
 ## License
 
 MIT
